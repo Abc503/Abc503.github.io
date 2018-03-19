@@ -6,6 +6,13 @@ author: "Arleen Barraza"
 meta: "Springfield"
 ---
 
+
+<body>
+  
+  
+  <div align= "center">
+<div style= "background-color:White;color:Black;padding:2px 2px;">
+  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
 ## Some great heading (h2)
