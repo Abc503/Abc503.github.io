@@ -1,11 +1,10 @@
 
 <body>
 
-<p>
+
   <div align= "center">
 <div style= "background-color:White;color:Black;padding:2px 2px;">
 <img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-01/6/10/campaign_images/webdr05/whats-the-weirdest-creepypasta-page-youve-ever-r-2-17948-1452094065-2_dblbig.jpg">
-</div>
 
 What are creepy pastas?
 
