@@ -13,17 +13,7 @@ layout: home
 
              <h1><div align= center><div style= "background-color:Black;color:white;padding:20px;">  Creepy Pastas </div></h1>
 
-<ul>
 
-  <li><a class:"active" href="file:///E:/Mi%20Pagina%20WEB/Tim%20Burton/Menu.html"> Homepage </a></li>
-
-  <li><a href="file:///E:/Mi%20Pagina%20WEB/Tim%20Burton/Bibliografia.html"> What are they? </a></li>
-
-  <li><a href="file:///E:/Mi%20Pagina%20WEB/Tim%20Burton/Trailers.html"> Short Films </a></li>
-
-  <li><a href="file:///E:/Mi%20Pagina%20WEB/Tim%20Burton/Cortometrajes.html"> Blog Post </a></li>
-
-</ul>
 <body background="https://pre00.deviantart.net/89b4/th/pre/i/2012/273/c/a/creepy_wallpaper_revised_by_originstory-d1fmv1j.jpg">
 <h1 align="center">&nbsp; </h1>
 <div align="center">
