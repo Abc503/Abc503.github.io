@@ -8,12 +8,6 @@
 layout: home
 ---
 
-</head>
-
-
-             <h1><div Creepy Pastas </div></h1>
-
-
 <h1 align="center">&nbsp; </h1>
 <div align="center">
   <p><img src="https://media.proprofs.com/images/QM/user_images/752182/qm510324672768.png" width="696" height="644"></p>
